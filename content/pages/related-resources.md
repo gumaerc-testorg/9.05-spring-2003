@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 514ba604-8436-2c9a-ee66-d80ded1d3ce9
 ---
@@ -59,7 +61,7 @@ The [International Society for Autonomic Neuroscience](http://autonomicneuroscie
 
 [International Society for Developmental Neuroscience](http://www.developmental-neuroscience.org/) is an organization of basic and clinical scientists who are interested in the development of the nervous system in the broadest sense. Many ISDN members are also interested in aspects of aging, as well as neuronal dysfunctions associated with trauma or disease.
 
-[International Society for Neurochemistry](http://www.neurochem.org/). This portal is provided to the neurochemistry community to facilitate the worldwide advancement of neurochemistry and related neuroscience discipline.
+[International Society for Neurochemistry](https://www.neurochemistry.org/). This portal is provided to the neurochemistry community to facilitate the worldwide advancement of neurochemistry and related neuroscience discipline.
 
 [Brain Pathology](https://onlinelibrary.wiley.com/journal/17503639) is the official publication of [International Society for Neuropathology.](http://www.intsocneuropathol.com/)
 
