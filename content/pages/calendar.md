@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of course topics, exams,
+  and student presentations.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

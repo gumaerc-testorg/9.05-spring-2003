@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides example exam questions from the motor cortex section
+  of the course.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

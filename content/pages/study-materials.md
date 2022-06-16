@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an overview of the entire course in outline form.
+  A more detailed sample lecture outline is also included.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
