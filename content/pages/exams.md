@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides example exam questions from the motor cortex section
+  of the course.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 788070cf-8e52-ea1a-17e3-48e01120406e
 ---
